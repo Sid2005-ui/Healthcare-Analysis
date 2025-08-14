@@ -12,4 +12,4 @@ Healthcare Screening Classification Dashboard – Power BI Project
 #  How This Is Helpful 
 - This project empowers healthcare organizations to improve screening compliance and enhance member engagement through data-driven decision-making.
 - It helps find out if people from different languages or backgrounds are getting screened equally.
-- It helps doctors and clinics focus on people who missed their screenings 
+- It helps doctors and clinics focus on people who missed their screenings .
